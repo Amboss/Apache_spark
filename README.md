@@ -35,5 +35,5 @@ Learn more about the data source [*here*][1]
 
 
 [1]:https://registry.opendata.aws/nyc-tlc-trip-records-pds/
-[2]:https://github.com/Amboss/portfolio_projects/blob/master/apache_spark/scripts/download.sh
-[3]:https://github.com/Amboss/portfolio_projects/blob/master/apache_spark/scripts/spark.py
+[2]:https://github.com/Amboss/apache_spark/blob/master/scripts/download.sh
+[3]:https://github.com/Amboss/apache_spark/blob/master/scripts/spark.py
